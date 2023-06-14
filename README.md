@@ -8,7 +8,7 @@ This project is a clone of the popular e-commerce platform Amazon, developed usi
 - **Stripe**
 - **Firebase**
 - **Node.js**
-- - **Express**
+- **Express**
 
 ### Features
 
