@@ -2,6 +2,8 @@
 
 This project is a clone of the popular e-commerce platform Amazon, developed using React, Stripe, Firebase, and Node.js. It aims to replicate some of the key features and functionalities of Amazon's web application, providing users with a familiar shopping experience.
 
+Live: https://clone-cd4d8.web.app/
+
 ### Technologies Used
 
 - **React**
