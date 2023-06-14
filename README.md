@@ -4,6 +4,8 @@ This project is a clone of the popular e-commerce platform Amazon, developed usi
 
 Live: https://clone-cd4d8.web.app/
 
+<img src = "clone.png" />
+
 ### Technologies Used
 
 - **React**
